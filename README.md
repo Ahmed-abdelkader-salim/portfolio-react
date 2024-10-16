@@ -3,7 +3,7 @@
   <a href="https:///" target="_blank">Ahmed Abdelkader</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+https://github.com/Ahmed-abdelkader-salim/portfolio-react
 </div>
 
 <br/>
